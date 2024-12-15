@@ -1,0 +1,1 @@
+aws cloudfront create-invalidation --distribution-id E32M3CP36FYM9S --paths "/*" --profile publicnote
